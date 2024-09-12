@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Siddharth Dash
+# Hi there! 👋 I'm Siddharth Dash.
 
 🎓 Master's student in Information Systems at Northeastern University, Boston, MA (Expected graduation: May 2025)
 
