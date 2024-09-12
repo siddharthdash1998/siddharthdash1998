@@ -2,7 +2,7 @@
 
 🎓 Master's student in Information Systems at Northeastern University, Boston, MA (Expected graduation: May 2025)
 
-🔍 **Actively seeking internship/co-op/full-time roles in Boston**
+🔍 **Actively seeking internship/co-op/full-time roles in the United States**
 
 ## 💼 About Me
 
