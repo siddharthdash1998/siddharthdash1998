@@ -12,7 +12,7 @@
   
 - Automate cloud infrastructure — Manage multi-cloud environments (AWS, Azure, GCP) using Terraform, Bicep, and Ansible with policy-based IAM governance and compliance automation
   
-- Ship production systems — Developed Kubernetes Operators in Go, built Django and FastAPI REST APIs serving 100+ engineers, and created automation tools 
+- Ship production systems — Developed Kubernetes Operators in Go, built Django and FastAPI REST APIs 
   
 - Own observability and monitoring — Implement comprehensive monitoring with Grafana, Prometheus, New Relic, and Splunk 
   
