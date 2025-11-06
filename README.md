@@ -1,37 +1,53 @@
 # Hi there! 👋 I'm Siddharth Dash  
 
-🎓 **MS in Information Systems @ Northeastern University (Boston, MA)** — graduating Dec 2025  
-💼 Experience: **PanAgora (Platform/DevOps Co-op)** | **GAP Inc (Database Reliability and DevOps Engineer)**  
-🔍 Actively seeking **full-time roles in DevOps / Cloud Platform Engineering** in the United States  
+🎓 MS in Information Systems @ Northeastern University (Boston, MA) — graduating December 2025
+💼 Experience: Platform/DevOps Engineer @ PanAgora Asset Management (Fintech) | DevOps & Database Reliability Engineer @ GAP Inc (3 years)
+👨‍🏫 Currently: Teaching Assistant for Business Analysis & Information Systems courses while actively pursuing full-time opportunities
+🔍 Seeking: Site Reliability Engineering, Platform Engineering, and DevOps roles starting January 2026
 
 ---
 
 ## 🚀 What I Do  
-- Automate **cloud infrastructure** with Terraform, Bicep, and CI/CD pipelines (Jenkins, GitHub Actions, Azure DevOps)  
-- Architect **secure hybrid systems** using Kubernetes, Docker, Helm, OAuth 2.0, and API Gateways  
-- Build **observability stacks** with Grafana, Prometheus, Splunk, and KQL for real-time monitoring  
-- Develop **Python/Golang tools** for orchestration, resource provisioning, and data processing  
+- Build AI/ML infrastructure — Deployed Azure OpenAI services, built RAG pipelines with LLM integration (Ollama, LangChain), and supported quantitative ML workload deployment in production fintech environments
+- Automate cloud infrastructure — Manage multi-cloud environments (AWS, Azure, GCP) using Terraform, Bicep, and Ansible with policy-based IAM governance and compliance automation
+- Ship production systems — Developed Kubernetes Operators in Go, built Django and FastAPI REST APIs serving 100+ engineers, and created automation tools reducing deployment time by 60-90%
+- Own observability and monitoring — Implement comprehensive monitoring with Grafana, Prometheus, New Relic, and Splunk achieving 99.9%+ uptime and reducing MTTR by 30-60%
+- Enable teams through teaching — Taught Git workflows, CI/CD best practices, and debugging methodologies to cross-functional engineering teams and graduate students
+- Debug distributed systems — Troubleshoot production issues across Kubernetes, networking, containers, databases, and cloud infrastructure using systematic log analysis and root cause investigation
 
 ---
 
 ## 🌟 Highlight Project  
-🛡️ **AI-Powered CVE Processing Platform**  
-- Real-time CVE monitoring using a Kafka + Kubernetes Operator (Go)  
-- RAG pipeline with LangChain + Hugging Face embeddings  
-- Multi-cloud deployment (AWS/GCP) with Terraform & Helm  
-- Full observability with Prometheus + Grafana  
+🛡️ AI-Powered CVE Intelligence Platform
+Technologies: Go, Kubernetes, Kafka, LangChain, Hugging Face, Terraform, AWS EKS, Prometheus, Grafana
 
-👉 Check it out in my repos!  
+- Developed custom Kubernetes Operator in Go monitoring 240K+ CVEs in real-time with automated resource management
+- Built RAG pipeline integrating Ollama LLM and LangChain with Hugging Face embeddings delivering AI-driven vulnerability insights with <2s latency
+- Engineered Kafka event streaming pipeline processing 240K+ records with 99.9% uptime and 4x throughput improvement
+- Deployed to AWS EKS with Terraform IaC implementing Istio service mesh, mTLS encryption, and RBAC policies
+- Implemented comprehensive observability with Prometheus and Grafana monitoring Kubernetes cluster health, Kafka throughput, and AI pipeline performance
+- Automated CI/CD with GitHub Actions incorporating Helm linting, semantic versioning, and security scanning
+
+☁️ Cloud Native Web Application
+Technologies: GCP, FastAPI, Python, Terraform, Packer, GitHub Actions
+
+- Developed RESTful API using FastAPI with authentication, comprehensive testing, and automated deployment to GCP
+- Orchestrated CI/CD with GitHub Actions, Terraform IaC, and Packer reducing deployment time by 50%
+- Implemented autoscaling, load balancing, and event-driven architecture using Cloud Pub/Sub and Cloud Functions
+
+👉 Check them out in my repos!
 
 ---
 
 ## 🌱 Currently Exploring  
-- Preparing for **Certified Kubernetes Administrator (CKA)**  
-- AI/ML infra automation for cost-efficient scaling  
+- Preparing for Certified Kubernetes Administrator (CKA) — Deepening expertise in Kubernetes orchestration, operators, and production cluster management
+- AI/ML infrastructure optimization — Exploring cost-efficient scaling strategies for LLM deployment and ML workload orchestration
+- Advanced observability patterns — Learning distributed tracing, chaos engineering, and SLO/SLI-based reliability practices
 
 ---
 
 ## 📫 Connect with Me  
 - 🔗 [LinkedIn](https://linkedin.com/in/dash-siddharth)  
 - 💻 [GitHub](https://github.com/siddharthdash1998)  
-- ✉️ dash.sid@northeastern.edu  
+- ✉️ dash.sid@northeastern.edu
+- 💻 [Portfolio] siddharthdash.xyz
