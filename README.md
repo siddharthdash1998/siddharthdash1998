@@ -9,10 +9,15 @@
 
 ## 🚀 What I Do  
 - Build AI/ML infrastructure — Deployed Azure OpenAI services, built RAG pipelines with LLM integration (Ollama, LangChain), and supported quantitative ML workload deployment in production fintech environments
+  
 - Automate cloud infrastructure — Manage multi-cloud environments (AWS, Azure, GCP) using Terraform, Bicep, and Ansible with policy-based IAM governance and compliance automation
-- Ship production systems — Developed Kubernetes Operators in Go, built Django and FastAPI REST APIs serving 100+ engineers, and created automation tools reducing deployment time by 60-90%
-- Own observability and monitoring — Implement comprehensive monitoring with Grafana, Prometheus, New Relic, and Splunk achieving 99.9%+ uptime and reducing MTTR by 30-60%
+  
+- Ship production systems — Developed Kubernetes Operators in Go, built Django and FastAPI REST APIs serving 100+ engineers, and created automation tools 
+  
+- Own observability and monitoring — Implement comprehensive monitoring with Grafana, Prometheus, New Relic, and Splunk 
+  
 - Enable teams through teaching — Taught Git workflows, CI/CD best practices, and debugging methodologies to cross-functional engineering teams and graduate students
+  
 - Debug distributed systems — Troubleshoot production issues across Kubernetes, networking, containers, databases, and cloud infrastructure using systematic log analysis and root cause investigation
 
 ---
@@ -22,18 +27,13 @@
 Technologies: Go, Kubernetes, Kafka, LangChain, Hugging Face, Terraform, AWS EKS, Prometheus, Grafana
 
 - Developed custom Kubernetes Operator in Go monitoring 240K+ CVEs in real-time with automated resource management
+  
 - Built RAG pipeline integrating Ollama LLM and LangChain with Hugging Face embeddings delivering AI-driven vulnerability insights with <2s latency
-- Engineered Kafka event streaming pipeline processing 240K+ records with 99.9% uptime and 4x throughput improvement
-- Deployed to AWS EKS with Terraform IaC implementing Istio service mesh, mTLS encryption, and RBAC policies
-- Implemented comprehensive observability with Prometheus and Grafana monitoring Kubernetes cluster health, Kafka throughput, and AI pipeline performance
-- Automated CI/CD with GitHub Actions incorporating Helm linting, semantic versioning, and security scanning
 
 ☁️ Cloud Native Web Application
 Technologies: GCP, FastAPI, Python, Terraform, Packer, GitHub Actions
 
 - Developed RESTful API using FastAPI with authentication, comprehensive testing, and automated deployment to GCP
-- Orchestrated CI/CD with GitHub Actions, Terraform IaC, and Packer reducing deployment time by 50%
-- Implemented autoscaling, load balancing, and event-driven architecture using Cloud Pub/Sub and Cloud Functions
 
 👉 Check them out in my repos!
 
