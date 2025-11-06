@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Siddharth Dash  
 
 🎓 **MS in Information Systems @ Northeastern University (Boston, MA)** — graduating Dec 2025  
-💼 Experience: **PanAgora (Platform/DevOps Co-op)** | **GAP Inc (Hybrid Cloud Engineer)**  
+💼 Experience: **PanAgora (Platform/DevOps Co-op)** | **GAP Inc (Database Reliability and DevOps Engineer)**  
 🔍 Actively seeking **full-time roles in DevOps / Cloud Platform Engineering** in the United States  
 
 ---
