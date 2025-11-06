@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Siddharth Dash  
 
-🎓 MS in Information Systems @ Northeastern University (Boston, MA) — graduating December 2025
-💼 Experience: Platform/DevOps Engineer @ PanAgora Asset Management (Fintech) | DevOps & Database Reliability Engineer @ GAP Inc (3 years)
-👨‍🏫 Currently: Teaching Assistant for Business Analysis & Information Systems courses while actively pursuing full-time opportunities
-🔍 Seeking: Site Reliability Engineering, Platform Engineering, and DevOps roles starting January 2026
+- 🎓 MS in Information Systems @ Northeastern University (Boston, MA) — graduating December 2025
+- 💼 Experience: Platform/DevOps Engineer @ PanAgora Asset Management (Fintech) | DevOps & Database Reliability Engineer @ GAP Inc (3 years)
+- 👨‍🏫 Currently: Teaching Assistant for Business Analysis & Information Systems courses while actively pursuing full-time opportunities
+- 🔍 Seeking: Site Reliability Engineering, Platform Engineering, and DevOps roles starting January 2026
 
 ---
 
@@ -49,5 +49,5 @@ Technologies: GCP, FastAPI, Python, Terraform, Packer, GitHub Actions
 ## 📫 Connect with Me  
 - 🔗 [LinkedIn](https://linkedin.com/in/dash-siddharth)  
 - 💻 [GitHub](https://github.com/siddharthdash1998)  
-- ✉️ dash.sid@northeastern.edu
-- 💻 [Portfolio] siddharthdash.xyz
+- ✉️ [Email Me](dash.sid@northeastern.edu)
+- 💻 [Portfolio](https://www.siddharthdash.xyz)
