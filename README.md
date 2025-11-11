@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Siddharth Dash  
+# Hi there! I'm Siddharth Dash  
 
 - 🎓 MS in Information Systems @ Northeastern University (Boston, MA) — graduating December 2025
 - 💼 Experience: Platform/DevOps Engineer @ PanAgora Asset Management (Fintech) | DevOps & Database Reliability Engineer @ GAP Inc (3 years)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 What I Do  
+##  What I Do  
 - Build AI/ML infrastructure — Deployed Azure OpenAI services, built RAG pipelines with LLM integration (Ollama, LangChain), and supported quantitative ML workload deployment in production fintech environments
   
 - Automate cloud infrastructure — Manage multi-cloud environments (AWS, Azure, GCP) using Terraform, Bicep, and Ansible with policy-based IAM governance and compliance automation
@@ -22,8 +22,8 @@
 
 ---
 
-## 🌟 Highlight Project  
-🛡️ AI-Powered CVE Intelligence Platform
+##  Highlight Project  
+ AI-Powered CVE Intelligence Platform
 Technologies: Go, Kubernetes, Kafka, LangChain, Hugging Face, Terraform, AWS EKS, Prometheus, Grafana
 
 - Developed custom Kubernetes Operator in Go monitoring 240K+ CVEs in real-time with automated resource management
