@@ -45,6 +45,7 @@ Technologies: GCP, FastAPI, Python, Terraform, Packer, GitHub Actions
 - Advanced observability patterns — Learning distributed tracing, chaos engineering, and SLO/SLI-based reliability practices
 
 ---
+![](https://komarev.com/ghpvc/?username=siddharthdash1998)
 
 ## 📫 Connect with Me  
 - 🔗 [LinkedIn](https://linkedin.com/in/dash-siddharth)  
